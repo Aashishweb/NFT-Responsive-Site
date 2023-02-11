@@ -1,8 +1,3 @@
 # NFT-Responsive-Site
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-```
+<a href="https://aashishweb.github.io/NFT-Responsive-Site/">Check it out: NFT-Responsive-Site</a>
